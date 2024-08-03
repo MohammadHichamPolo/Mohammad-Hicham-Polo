@@ -1,40 +1,38 @@
-# Hi there, I'm Mohammad HICHAM POLO👋
+# Hi there, I'm Mohammad HICHAM POLO 👋
 
 ## 🚀 About Me
-I'm a 2nd year master student in Genomics and Bioinformatics, a Biologiste graduated from University Mohamed V in Biologie and health (Option : Neuroscience) that works also in scientific projects related to human infertility.
-Even tho. it looks like I am into too many diferent domains, I am more specialized into Biostatistical analysis and Bioinformatics, and what explains more this diversity is my love to 
-biology.
+I'm a 2nd-year Master's student specializing in Genomics and Bioinformatics, with a background in Biology and Health from University Mohamed V, where I focused on Neuroscience. My passion for biology drives my work in various scientific domains, particularly in human infertility, where I apply my expertise in Biostatistical analysis and Bioinformatics.
 
-## 🔭 I’m currently working on
-- A new statistical methode web application to predict ART(Artificial Reproduction technology) outcomes, based on the fewer possible hormone's input values.
-- Improving my skills in R programming, bash and python.
+## 🔭 Current Projects
+- Developing a web application that predicts ART (Artificial Reproduction Technology) outcomes using minimal hormone input values, leveraging advanced statistical methods.
+- Enhancing my programming skills in R, Bash, and Python to tackle complex bioinformatics challenges.
 
-## 🌱 I’m currently learning
-- Advanced Genomics.
+## 🌱 Learning Journey
+- Deepening my knowledge in Advanced Genomics to further my research capabilities and contribute to cutting-edge discoveries.
 
-## 👨‍💻 All of my projects are available at
-[https://github.com/johnDoe](https://github.com/MohammadHichamPolo)
+## 👨‍💻 Explore My Work
+All of my projects are available on my [GitHub](https://github.com/MohammadHichamPolo). Feel free to explore and collaborate!
 
-## 💬 Ask me about
-- Anything Bio-related!
-- Anything tech-related!
+## 💬 Let's Talk About
+- Anything related to biology, genomics, or bioinformatics!
+- Tech topics, especially around statistical analysis and data science.
 
-## 📫 How to reach me
-- Email: mohammad.hicham@um5r.ac.ma or creapol2021@gmail.com
-- LinkedIn: [john-doe](https://www.linkedin.com/in/john-doe/)
+## 📫 How to Reach Me
+- **Email:** [mohammad.hicham@um5r.ac.ma](mailto:mohammad.hicham@um5r.ac.ma) or [creapol2021@gmail.com](mailto:creapol2021@gmail.com)
+- **LinkedIn:** [Mohammad Hicham Polo](https://www.linkedin.com/in/mohammad-hicham-polo-071043269/)
 
 ## 🛠️ Technologies & Tools
-- **Languages**: R, Bash, Python.
-- **Frameworks**: Jupyter, R studio
-- **Tools**: Git, Docker.
+- **Languages:** R, Bash, Python
+- **Frameworks:** Jupyter, RStudio
+- **Tools:** Git, Docker
 
 ## 📊 GitHub Stats
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadHichamPolo&show_icons=true&theme=radical)
+![Mohammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammadHichamPolo&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
-![GitHub trophies](https://github-profile-trophy.vercel.app/?username=MohammadHichamPolo&theme=dracula)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MohammadHichamPolo&theme=dracula)
 
-## 🔗 Connect with me
+## 🔗 Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/mohammad-hicham-polo-071043269/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Mohammad-Hicham-Polo" height="30" width="40" /></a>
 </p>
