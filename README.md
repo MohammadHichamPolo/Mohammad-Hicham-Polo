@@ -12,7 +12,8 @@ I'm a 2nd-year Master's student specializing in Genomics and Bioinformatics, wit
 </p>
 
 ## 🔭 Current Projects
-- **[ART Prediction Tool](https://github.com/MohammadHichamPolo/ART-Prediction-Tool)**: Developing a web application that predicts ART (Artificial Reproduction Technology) outcomes using minimal hormone input values, leveraging advanced statistical methods.
+- **[ART Prediction Tool](https://github.com/MohammadHichamPolo/ART-Prediction-Tool)**: Developing a Shiny web application that predicts ART (Artificial Reproduction Technology) outcomes using minimal hormone input values, leveraging advanced statistical methods.
+- **[Diet Prediction Tool](https://github.com/MohammadHichamPolo/ART-Prediction-Tool)**: Developing a Shiny web application that Predicts the diet quality of a specific patient's journey. The case report related to this patient is **here**.
 - **Improving Programming Skills**: Enhancing my expertise in R, Bash, and Python to tackle complex bioinformatics challenges.
 
 ## 🌱 Learning Journey
