@@ -32,6 +32,12 @@ All of my projects are available on my [GitHub](https://github.com/MohammadHicha
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MohammadHichamPolo&theme=dracula)
 
+## 🚀 Badges
+
+![GitHub Followers](https://img.shields.io/github/followers/MohammadHichamPolo?label=Followers&style=social)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)
+![GitHub License](https://img.shields.io/github/license/MohammadHichamPolo/repository-name)
+
 ## 🔗 Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/mohammad-hicham-polo-071043269/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Mohammad-Hicham-Polo" height="30" width="40" /></a>
