@@ -5,16 +5,14 @@
 ![GitHub License](https://img.shields.io/github/license/MohammadHichamPolo/Mohammad-Hicham-Polo)
 
 ## 🚀 About Me
-I'm a 2nd-year Master's student specializing in Genomics and Bioinformatics, with a background in Biology and Health from University Mohamed V, where I focused on Neuroscience. My passion for biology drives my work in various scientific domains, particularly in human infertility, where I apply my expertise in Biostatistical analysis and Bioinformatics.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/MohammadHichamPolo/project-image.png" alt="Project Image" height="200" style="border-radius: 10px;">
-</p>
+I'm a 2nd-year Master's student specializing in Genomics and Bioinformatics, with a background in Biology and Health from University Mohamed V, where I focused on Neuroscience. My passion for biology drives my work in various scientific domains where I apply my expertise in Biostatistical analysis and Bioinformatics.
 
 ## 🔭 Current Projects
-- **[ART Prediction Tool](https://github.com/MohammadHichamPolo/ART-Prediction-Tool)**: Developing a Shiny web application that predicts ART (Artificial Reproduction Technology) outcomes using minimal hormone input values, leveraging advanced statistical methods.
-- **[Diet Prediction Tool](https://github.com/MohammadHichamPolo/ART-Prediction-Tool)**: Developing a Shiny web application that Predicts the diet quality of a specific patient's journey. The case report related to this patient is **here**.
+- **[ART Prediction Tool]**: Developing a Shiny web application that predicts ART (Artificial Reproduction Technology) outcomes using minimal hormone input values, leveraging advanced statistical methods.
 - **Improving Programming Skills**: Enhancing my expertise in R, Bash, and Python to tackle complex bioinformatics challenges.
+## Projects finished
+- **[Optimal_spespe first draft](https://github.com/chahid001/Project-optimal-spespe-for-the-challenge-2-of-the-HACKATHON-inFer-GW4-network-Fertility-In-Vitro-)**: Devoloping a tool that classifies and visualizes spermatozoon flagella beat patterns, analyzing data to characterize waveforms in bovine spermatozoon.
+- **[diaBeta Tool from Janovapp](https://github.com/MohammadHichamPolo/diabeta)**: Developing a Shiny web application that Outputs biostatistical results of a specific patient's blood glucose level and nutrient intake behavior. The case report related to an anonymous patient to show how can this project add to the health care industry is still under revision.
 
 ## 🌱 Learning Journey
 - Deepening my knowledge in **Advanced Genomics** to further my research capabilities and contribute to cutting-edge discoveries.
